@@ -3,11 +3,9 @@
 Create a portfolio using your GitHub repositories!
 I made it based on my personal website, you can check it [here.]((https://github.com/Satanic01/Portfolio-generator/))!
 
-## Usage
 
-[Open the website]((https://github.com/Satanic01/Portfolio-generator/)) and type your github username
 
-> Pro tip: you can type the username directly in the url `/?u=YOUR_USERNAME`
+
 
 ## Contributing
 
@@ -21,8 +19,7 @@ I made it based on my personal website, you can check it [here.]((https://github
 Clone this repository using
 
 ```bash
-git clone github.com/GuilhermeBalog/portfolio-generator.git
-```
+(https://github.com/Satanic01/Portfolio-generator/)
 
 Install dependencies with
 
